@@ -1,4 +1,4 @@
-🧠 Image Processing & Preprocessing Techniques for Computer Vision
+#🧠 Image Processing & Preprocessing Techniques for Computer Vision#
 This project demonstrates fundamental image preprocessing operations using Python, OpenCV, and PIL — the essential steps used to prepare images for computer vision and machine learning models.
 It walks through how to load, transform, and enhance images before feeding them into algorithms or neural networks.
 
